@@ -1,0 +1,5 @@
+USER_TEXT=KFC
+USER_DIRECTION_INPUT=South by West, 42.94бу from South
+VIDEO_PATH=E:\AR_Wayfinding_Project\demon\original\processed\turn left_Processed.mp4
+USER_IMAGE_PATH=E:\AR_Wayfinding_Project\demon\pic\custom_label2.jpg
+OUTPUT_VIDEO_PATH=F:\ARWAY\2\output.avi
